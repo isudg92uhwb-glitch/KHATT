@@ -1,6 +1,6 @@
 HTML
 < !DOCTYPE html >
-<html  lang="ar" >
+<html  lang="en" >
 <head>
 <meta charset="UTF-8">
 <meta name="viewport"
@@ -13,4 +13,3 @@ initial-scale=1.0">
 <p>welcome to KHATT clothing brand</p>
 </body>
 </html>
-
